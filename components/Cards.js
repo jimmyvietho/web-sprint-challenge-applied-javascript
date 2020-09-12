@@ -68,3 +68,4 @@ const card = (article) => {
 
   return divCard;
 };
+ 

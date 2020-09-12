@@ -20,7 +20,7 @@ axios.get("https://lambda-times-api.herokuapp.com/topics")
 
         document.querySelector(".topics").appendChild(divTab)
     })
-})
+}) 
 
 .catch ( err => { 
     console.log('errorResponse', err)

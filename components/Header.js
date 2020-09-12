@@ -10,7 +10,7 @@
 //
 // Use your function to create a header
 // and append it to the DOM inside the div.header-container
- 
+  
 function Header() {
     const headerDiv = document.createElement("div")
     headerDiv.classList.add("header")
@@ -26,7 +26,7 @@ function Header() {
     tempSpan.classList.add("temp")
     tempSpan.textContent = "98°"
 
-    
+     
 
     headerDiv.append(dateSpan, headerOne, tempSpan)
     return headerDiv
