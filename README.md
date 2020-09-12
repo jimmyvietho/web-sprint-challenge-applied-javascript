@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+The DOM is the Document Object Model. It is an object representation of the html elements of a webpage. 
+
 2. What is an event?
+
+An event is an interaction the user does to the webpage, for instance, a click, a key press, or scrolling.
 
 3. What is an event listener?
 
+An event listener is a block of code that is attached to a certain event that fires when that specific event occurs. 
+
 4. Why would we convert a NodeList into an Array?
 
+We would use an Array.from() method and pass the NodeList inside the parentheses
+
 5. What is a component?
+
+A component is reusable code that is outputs the same design for multiple inputs.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
